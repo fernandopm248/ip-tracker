@@ -1,0 +1,105 @@
+@media (max-width:450px){
+    .boss{
+        width: 70vh;
+        min-height: 190vh;
+        background-repeat: repeat;
+        
+        
+    }
+    .header{
+        height: 50vh;
+        
+    }
+    .title{
+        font-size: 20px;
+    }
+   
+    .searchIp{
+        width: 50%;
+        height: 60px;
+    }
+    .go{
+        height: 60px;
+        width: 40px;
+    }
+    .block{
+        margin-left: 88px;
+        align-content: center;
+        grid-template-columns: 1fr;
+        height: 340px;
+        width: 80%;
+        margin-top: 186px;
+        
+
+       
+
+    }
+    
+    .mapspace{
+        height: 300px;
+        width: 100%;
+       height: 160vh;
+    
+    }
+    .ip{
+        margin-top: 2px;
+        font-size: 20px;
+        
+        border-right: none;
+    
+    
+    }
+    .ip1{
+        margin-top: 2px;
+        font-size: 20px;
+        
+        border-right: none;
+        
+    
+    
+    }
+    .ip2{
+        margin-top: 2px;
+        font-size: 20px;
+        
+        border-right: none;
+        
+    
+    
+    }
+    .ip3{
+        margin-top: 2px;
+        font-size: 20px;
+        border-right: none;
+       
+    
+    }
+    .contents{
+        font-size: 20px,
+    }
+    
+
+
+}
+@media (height:731px){
+    .block{
+    margin-left: 108px;
+    }
+
+
+}
+@media (height:823px){
+    .block{
+    margin-left: 137px;
+    }
+
+
+}
+@media (height:812px){
+    .block{
+    margin-left: 137px;
+    }
+
+
+}
+
